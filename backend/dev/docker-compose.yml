@@ -1,6 +1,6 @@
 services:
   backend-api:
-    image: taher/api-session14
+    image: talel12/api-session14
     container_name: backend-api
     env_file:
       - .env
